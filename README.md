@@ -1,11 +1,8 @@
-# TP2
 # TP2 – Bases du langage Java
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Licence](https://img.shields.io/badge/Licence-GL-blue?style=for-the-badge)
 
-**Auteur :** Samar Bouazizi  
-**Filière :** Licence Génie Logiciel – FST Sidi Bouzid  
 
 ---
 
