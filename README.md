@@ -3,7 +3,6 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Licence](https://img.shields.io/badge/Licence-GL-blue?style=for-the-badge)
 
-
 ---
 
 ## 🎯 Objectifs
@@ -30,8 +29,15 @@
 - Vérification si l’année est **bissextile** : divisible par 4 mais pas par 100, sauf si divisible par 400.
 
 ### 4️⃣ Calculatrice simple
-- Lecture d’une expression arithmétique :  
+- Lecture d’une expression arithmétique.  
 - Affichage du résultat pour les opérations **+**, **−**, **×**, **/**.
+
+### 5️⃣ Gestion des employés
+- Programme permettant de saisir les informations de plusieurs employés :
+  - **Nom**, **prénom**, **âge**, et **salaire**.
+- Après chaque saisie, l’utilisateur choisit s’il veut ajouter un autre employé.  
+- À la fin, le programme affiche le **salaire le plus élevé** parmi tous les employés saisis.
+
 
 ---
 
